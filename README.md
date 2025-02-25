@@ -1,13 +1,35 @@
-# 🚀 UNICH TOOL - HƯỚNG DẪN SỬ DỤNG 🚀
+# 🚀 UNICH Tool - Hướng Dẫn Sử Dụng
 
 ![Unich Tool](./unich_logo.png)
 
 ## 🔥 Giới Thiệu
-**Unich Tool** là công cụ hỗ trợ tự động **đăng ký tài khoản**, **treo tài khoản** và **làm nhiệm vụ** một cách nhanh chóng và hiệu quả. Hướng dẫn này sẽ giúp bạn thiết lập và chạy tool một cách chính xác.
+**Uni-CH Tool** là công cụ hỗ trợ tự động **đăng ký tài khoản**, **treo tài khoản**, và **làm nhiệm vụ** một cách nhanh chóng và hiệu quả. Hướng dẫn này sẽ giúp bạn thiết lập và chạy tool chính xác.
 
 ---
 
-## ⚙️ Cấu Hình (config.json)
+## 🛠️ Hướng Dẫn Tải Tool Unich
+
+### 🔹 **Bước 1: Truy cập vào GitHub**
+Mở trình duyệt và truy cập vào trang GitHub của tool tại đường link sau:
+
+➡ **[Uni-CH Tool trên GitHub](https://github.com/Tunzankies/Unich_Airdrop)**
+
+### 🔹 **Bước 2: Tải File ZIP**
+1. Nhấn vào nút **Code** (màu xanh ở góc phải).
+2. Chọn **Download ZIP** để tải toàn bộ source code về máy.
+3. Giải nén file ZIP sau khi tải xong.
+
+📌 **Hình minh họa:**
+![Hướng dẫn tải ZIP](./image.png)
+
+### 🔹 **Bước 3: Giải Nén Và Thiết Lập**
+- Sau khi tải xong, hãy giải nén file `.zip` vào một thư mục trên máy tính.
+- Tiến hành cấu hình theo hướng dẫn bên dưới trước khi chạy tool.
+
+---
+
+## ⚙️ Cấu Hình (`config.json`)
+
 ### 🔹 **Chạy Treo Tài Khoản**
 ```json
 {
@@ -84,6 +106,7 @@ username|password
 ---
 
 ## 🖥️ Hướng Dẫn Chạy Tool
+
 ### 💻 **Windows**
 1. Chỉnh sửa `config.json` theo nhu cầu.
 2. Thêm đầy đủ `hotmail.txt`, `account.txt`, `proxy.txt`.
@@ -106,11 +129,8 @@ username|password
 ---
 
 ## 📜 Bản Quyền
-© 2025 Uni-CH Tool. Mọi quyền được bảo lưu.
+© 2025 Tunzankies. Mọi quyền được bảo lưu.
 
 ---
-
-## 🎯 Kết Luận
-Tool Uni-CH giúp bạn **tự động hóa** quá trình **đăng ký, treo tài khoản và làm nhiệm vụ** một cách nhanh chóng. Hãy đảm bảo bạn thiết lập đúng cấu hình trước khi chạy để tránh lỗi.
 
 💡 **Chúc bạn thành công! 🚀**
