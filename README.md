@@ -1,9 +1,9 @@
-# 🚀 UNICH TOOL - HƯỚNG DẪN SỬ DỤNG 🚀
+# 🚀 UNI-CH TOOL - HƯỚNG DẪN SỬ DỤNG 🚀
 
-![Unich Tool](./unich_logo.png)
+![Uni-CH Tool](./unich_logo.png)
 
 ## 🔥 Giới Thiệu
-**Unich Tool** là công cụ hỗ trợ tự động **đăng ký tài khoản**, **treo tài khoản** và **làm nhiệm vụ** một cách nhanh chóng và hiệu quả. Hướng dẫn này sẽ giúp bạn thiết lập và chạy tool một cách chính xác.
+**Uni-CH Tool** là công cụ hỗ trợ tự động **đăng ký tài khoản**, **treo tài khoản** và **làm nhiệm vụ** một cách nhanh chóng và hiệu quả. Hướng dẫn này sẽ giúp bạn thiết lập và chạy tool một cách chính xác.
 
 ---
 
