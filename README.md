@@ -16,6 +16,7 @@
     "checkProxy": true, 
     "autoTasks": true, 
     "autoReg": false, 
+    "getToken": false,
     "checkToken": false, 
     "refCode": "HRTBV9", 
     "CAPMONSTER_API_KEY": "your_api_key"
@@ -36,6 +37,7 @@
     "autoMining": false, 
     "autoTasks": false, 
     "autoReg": true, 
+    "getToken": false,
     "checkToken": false, 
     "refCode": "HRTBV9", 
     "CAPMONSTER_API_KEY": "your_api_key"
@@ -45,6 +47,7 @@
 - `numberThread`: **10** (Tránh spam OTP dẫn đến lỗi khi đăng ký).
 - `autoReg`: **true** (Bật chế độ tự động đăng ký tài khoản).
 - `autoTasks` & `autoMining`: **false** (Không làm nhiệm vụ hay farming khi đăng ký).
+- `getToken`: **true** (Khi nào cả refresh Token và token hết hạn thì bật cái này lên).
 - **Thêm đầy đủ** `hotmail.txt`, `proxy.txt` trước khi chạy.
 
 📍 **Giải thích các giá trị cấu hình:**
