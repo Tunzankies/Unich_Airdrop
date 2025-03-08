@@ -4,6 +4,7 @@
     "autoMining": false,
     "autoTasks": false,
     "autoReg": true,
+    "getToken": false,
     "checkToken": false,
     "refCode": "HRTBV9",
     "CAPMONSTER_API_KEY": "your_api_key"
