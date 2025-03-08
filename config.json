@@ -3,7 +3,8 @@
     "checkProxy": false,
     "autoMining": false,
     "autoTasks": false,
-    "autoReg": true,
+    "autoReg": false,
+    "getToken": false,
     "checkToken": false,
     "refCode": "HRTBV9",
     "CAPMONSTER_API_KEY": "your_api_key"
