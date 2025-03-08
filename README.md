@@ -1,9 +1,21 @@
-# 🚀 UNI-CH TOOL - HƯỚNG DẪN SỬ DỤNG 🚀
+# 🚀 UNICH TOOL - HƯỚNG DẪN SỬ DỤNG 🚀
 
-![Uni-CH Tool](./unich_logo.png)
+![Unich Tool](./unich_logo.png)
 
 ## 🔥 Giới Thiệu
 **Uni-CH Tool** là công cụ hỗ trợ tự động **đăng ký tài khoản**, **treo tài khoản** và **làm nhiệm vụ** một cách nhanh chóng và hiệu quả. Hướng dẫn này sẽ giúp bạn thiết lập và chạy tool một cách chính xác.
+
+---
+## 🛠️ Cài Đặt & Chuẩn Bị
+
+### 🔗 **Tải & Cài Đặt Tool**
+
+1. Truy cập GitHub và tải tool:
+   - Mở GitHub repo: [Unich Tool](https://github.com/Tunzankies/Unich_Airdrop)
+   - Nhấn **Code** > **Download ZIP**
+![Download_zip](./image.png)
+2. Giải nén file ZIP vừa tải về máy.
+3. Mở thư mục chứa tool và tiến hành cài đặt theo hướng dẫn dưới.
 
 ---
 
@@ -28,6 +40,7 @@
 - `autoTasks`: **true** (tự động làm nhiệm vụ).
 - `checkProxy`: **true** (kiểm tra proxy trước khi chạy).
 - `autoReg`: **false** (không tự động đăng ký tài khoản).
+- `getToken`: **false** (Lấy lại token thì token cũ hết hạn).
 - **Thêm đầy đủ** `account.txt`, `proxy.txt` trước khi chạy.
 
 ### 🔹 **Chạy Đăng Ký Tài Khoản**
@@ -81,7 +94,6 @@ username|password
 ### 📜 **Các File Không Cần Chỉnh Sửa**
 - `token.txt` ❌
 - `refreshToken.txt` ❌
-- `tasks.json` ❌
 - `tasks_status.json` ❌
 
 ---
@@ -105,15 +117,17 @@ username|password
 ## 🔑 Lưu Ý Về Token
 - Sau khi đăng nhập, tool sẽ tự động lưu **token** và **refresh_token** vào file `token.txt` và `refreshToken.txt`.
 - **Không cần chỉnh sửa** hai file này.
+- Khi **token** hết hạn thì copy **refresh_token.txt** bỏ vào file `token.txt`
+- Nếu mà **token** + **refresh_token** cũng hết hạn thì bật `getToken: true` lên để lấy token mới ( nhớ xoá dữ liệu file **token** và **refresh_token**)
 
 ---
 
 ## 📜 Bản Quyền
-© 2025 Uni-CH Tool. Mọi quyền được bảo lưu.
+© 2025 Tunzankies. Mọi quyền được bảo lưu.
 
 ---
 
 ## 🎯 Kết Luận
-Tool Uni-CH giúp bạn **tự động hóa** quá trình **đăng ký, treo tài khoản và làm nhiệm vụ** một cách nhanh chóng. Hãy đảm bảo bạn thiết lập đúng cấu hình trước khi chạy để tránh lỗi.
+Tool Unich giúp bạn **tự động hóa** quá trình **đăng ký, treo tài khoản và làm nhiệm vụ** một cách nhanh chóng. Hãy đảm bảo bạn thiết lập đúng cấu hình trước khi chạy để tránh lỗi.
 
 💡 **Chúc bạn thành công! 🚀**
